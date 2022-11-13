@@ -19,7 +19,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: (https://inspiring-carson-a5ffdc.netlify.app)
+- Live Site URL: (https://celadon-snickerdoodle-4e407d.netlify.app)
 
 ## My process
 
